@@ -1,0 +1,9 @@
+baseURL = "/"
+languageCode = "he"
+title = "Lemon Waffle"
+theme = "terminal"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      hardWraps = true
