@@ -3,7 +3,7 @@ languageCode = "he"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
 title = "Lemon Waffle"
-theme = "terminal"
+theme = "ananke"
 pagination.pagerSize = 5
 
 [markup]
@@ -80,10 +80,10 @@ pagination.pagerSize = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
+    title = "וופל לימון"
 
     [languages.en.params]
-      subtitle = "A simple, retro theme for Hugo"
+      subtitle = "A simple, retro blog for geeks"
       owner = ""
       keywords = ""
       copyright = ""
@@ -98,7 +98,7 @@ pagination.pagerSize = 5
       words = "words"
 
       [languages.en.params.logo]
-        logoText = "Terminal"
+        logoText = "וופל לימון"
         logoHomeLink = "/"
 
       [languages.en.menu]
