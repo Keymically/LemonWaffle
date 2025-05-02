@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>וופל לימון</title>
-    <link>//localhost:1313/</link>
+    <link>http://localhost:1313/LemonWaffle/</link>
     <description>Recent content on וופל לימון</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 13 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/LemonWaffle/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>למה ליצור תוכן</title>
-      <link>//localhost:1313/posts/%D7%9C%D7%9E%D7%94-%D7%9C%D7%99%D7%A6%D7%95%D7%A8-%D7%AA%D7%95%D7%9B%D7%9F/</link>
+      <link>http://localhost:1313/LemonWaffle/posts/%D7%9C%D7%9E%D7%94-%D7%9C%D7%99%D7%A6%D7%95%D7%A8-%D7%AA%D7%95%D7%9B%D7%9F/</link>
       <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/%D7%9C%D7%9E%D7%94-%D7%9C%D7%99%D7%A6%D7%95%D7%A8-%D7%AA%D7%95%D7%9B%D7%9F/</guid>
-      <description>&lt;p&gt;הפעם זה הולך להיות קצת יותר אישי&lt;br&gt;&#xA;מכירים את ה- meme הזה שמשווה מה ההורים שלנו עשו בגיל הזה ומה אנחנו עושים עכשיו?&lt;br&gt;&#xA;זה תמיד פוגע בול איפה שצריך&lt;br&gt;&#xA;למשל&lt;br&gt;&#xA;!&lt;img src=&#34;//localhost:1313/images/me%20and%20parents%20at%20age%2024.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;אז-באמת-למה-אני-עושה-את-זה&#34;&gt;אז באמת, למה אני עושה את זה?&lt;/h2&gt;&#xA;&lt;p&gt;קודם כל, אני במילא יוצרת תוכן, תמיד יצרתי.&lt;br&gt;&#xA;בדרך כלל יצרתי אותו לעצמי,  או &amp;ldquo;למגירה&amp;rdquo;&lt;br&gt;&#xA;וגם אני אוהבת לתכנת ולעבוד עם קוד (להכין אתר משלי זה במילא משהו שתמיד רציתי לעשות)&lt;br&gt;&#xA;אז בעצם השינוי הוא שאני מחליטה להוציא את התוכן שלי החוצה ולתת לעוד אנשים להנות ממה שאני יוצרת.&lt;br&gt;&#xA;מאז גיל צעיר נהנתי ליצור ולהכין דברים כאלו עם חברים.&lt;br&gt;&#xA;משחקי ווידאו, קלפים, מבוכים ודרקונים, LARP&amp;hellip;&lt;br&gt;&#xA;כשלא היינו משחקים כנראה שהיינו מדברים עליהם. ולפעמים אפילו מכינים לעצמנו ביחד את המשחקים שלנו, זה היה דורש לכתוב, לצייר וללמוד איך להכין דברים חדשים ואז גם לעבוד על ליצור אותם באמת.&lt;br&gt;&#xA;זה היה לי כיף ואלו הרגעים שהכי נחמד לי להזכר בהם (רובם הושפעו מהמשחקים והסדרות שאהבנו).&lt;/p&gt;</description>
+      <guid>http://localhost:1313/LemonWaffle/posts/%D7%9C%D7%9E%D7%94-%D7%9C%D7%99%D7%A6%D7%95%D7%A8-%D7%AA%D7%95%D7%9B%D7%9F/</guid>
+      <description>&lt;p&gt;הפעם זה הולך להיות קצת יותר אישי&lt;br&gt;&#xA;מכירים את ה- meme הזה שמשווה מה ההורים שלנו עשו בגיל הזה ומה אנחנו עושים עכשיו?&lt;br&gt;&#xA;זה תמיד פוגע בול איפה שצריך&lt;br&gt;&#xA;למשל&lt;br&gt;&#xA;!&lt;img src=&#34;http://localhost:1313/LemonWaffle/images/me%20and%20parents%20at%20age%2024.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;אז-באמת-למה-אני-עושה-את-זה&#34;&gt;אז באמת, למה אני עושה את זה?&lt;/h2&gt;&#xA;&lt;p&gt;קודם כל, אני במילא יוצרת תוכן, תמיד יצרתי.&lt;br&gt;&#xA;בדרך כלל יצרתי אותו לעצמי,  או &amp;ldquo;למגירה&amp;rdquo;&lt;br&gt;&#xA;וגם אני אוהבת לתכנת ולעבוד עם קוד (להכין אתר משלי זה במילא משהו שתמיד רציתי לעשות)&lt;br&gt;&#xA;אז בעצם השינוי הוא שאני מחליטה להוציא את התוכן שלי החוצה ולתת לעוד אנשים להנות ממה שאני יוצרת.&lt;br&gt;&#xA;מאז גיל צעיר נהנתי ליצור ולהכין דברים כאלו עם חברים.&lt;br&gt;&#xA;משחקי ווידאו, קלפים, מבוכים ודרקונים, LARP&amp;hellip;&lt;br&gt;&#xA;כשלא היינו משחקים כנראה שהיינו מדברים עליהם. ולפעמים אפילו מכינים לעצמנו ביחד את המשחקים שלנו, זה היה דורש לכתוב, לצייר וללמוד איך להכין דברים חדשים ואז גם לעבוד על ליצור אותם באמת.&lt;br&gt;&#xA;זה היה לי כיף ואלו הרגעים שהכי נחמד לי להזכר בהם (רובם הושפעו מהמשחקים והסדרות שאהבנו).&lt;/p&gt;</description>
     </item>
     <item>
       <title>למה בעברית?</title>
-      <link>//localhost:1313/posts/%D7%9C%D7%9E%D7%94-%D7%91%D7%A2%D7%91%D7%A8%D7%99%D7%AA/</link>
+      <link>http://localhost:1313/LemonWaffle/posts/%D7%9C%D7%9E%D7%94-%D7%91%D7%A2%D7%91%D7%A8%D7%99%D7%AA/</link>
       <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/%D7%9C%D7%9E%D7%94-%D7%91%D7%A2%D7%91%D7%A8%D7%99%D7%AA/</guid>
+      <guid>http://localhost:1313/LemonWaffle/posts/%D7%9C%D7%9E%D7%94-%D7%91%D7%A2%D7%91%D7%A8%D7%99%D7%AA/</guid>
       <description>&lt;p&gt;למה עברית? נע&amp;hellip; זה בטח יהיה גרוע, נכון?&lt;br&gt;&#xA;גם רוב הגיימרים וחובבי טכנולוגיה מרגישים בנוח עם אנגלית - אז מה הקטע?&lt;/p&gt;</description>
     </item>
   </channel>
