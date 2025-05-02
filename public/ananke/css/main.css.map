@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "K:/BlogSite/LemonWaffle",
+	"sourceRoot": "K:/BlogSite/LemonWaffle_test",
 	"sources": [
 		"ananke/css/main.css"
 	],
